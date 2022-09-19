@@ -1,1 +1,1 @@
-# SW-AI-Korean-ocr
+# SW-AI-Korean-OCR
