@@ -1,10 +1,10 @@
 # SW-AI-Korean-OCR
 
-## 코드
+## Model 
 https://github.com/Belval/TextRecognitionDataGenerator  
 https://github.com/clovaai/deep-text-recognition-benchmark
 
-## 데이터
+## 데이터 출처
 https://www.aihub.or.kr/  
 
 
