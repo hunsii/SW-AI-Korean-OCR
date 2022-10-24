@@ -29,6 +29,12 @@ python3 deep-text-recognition-benchmark/create_lmdb_dataset.py --inputPath ./ --
 │  └─val
 │     ├─aihub
 │     └─trdg
+├─test
+│ ├─test_00001.png
+│ ├─test_00002.png
+│ ├─test_00003.png
+│ ├─test_00004.png
+
 ```
 ### Train image
 dataset_root:    lmdb/train	 dataset: aihub  
