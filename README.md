@@ -1,7 +1,12 @@
 # SW-AI-Korean-OCR
-https://www.aihub.or.kr/  
+
+## 코드
 https://github.com/Belval/TextRecognitionDataGenerator  
 https://github.com/clovaai/deep-text-recognition-benchmark
+
+## 데이터
+https://www.aihub.or.kr/  
+
 
 ## Create Text Image
 ```
