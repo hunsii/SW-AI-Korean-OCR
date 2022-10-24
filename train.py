@@ -279,7 +279,7 @@ if __name__ == '__main__':
     opt = parser.parse_args()
 
     if opt.language == 'ko-sh':
-        with open('deep-text-recognition-benchmark/character/ko.txt', 'r', encoding='utf-8') as f:
+        with open('character/ko.txt', 'r', encoding='utf-8') as f:
             opt.character = f.read()
 
 
