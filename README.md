@@ -5,7 +5,7 @@ https://github.com/Belval/TextRecognitionDataGenerator
 https://github.com/clovaai/deep-text-recognition-benchmark
 
 ## 데이터 출처
-[https://www.aihub.or.kr/  ](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=105)  
+[aihub](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=105)  
 
 
 ## Create Text Image
