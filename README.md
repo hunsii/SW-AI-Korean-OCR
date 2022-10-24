@@ -5,7 +5,7 @@ https://github.com/clovaai/deep-text-recognition-benchmark
 
 ## Create Text Image
 ```
-python3 trdg/run.py -c 10000 -l ko -f 128 -k 15 -rk -bl 2 -rbl -b 3 --output_dir input/trdg -w 1 --font_dir trdg/font/ko
+python3 trdg/run.py -c 10000 -l ko -f 128 -k 15 -rk -bl 2 -rbl -b 3 --output_dir input/trdg -w 1 --font_dir trdg/fonts/ko
 ```
 
 ## Create LMDB file
