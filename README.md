@@ -31,10 +31,14 @@ python3 deep-text-recognition-benchmark/create_lmdb_dataset.py --inputPath ./ --
 ├─lmdb
 │  ├─train
 │  │  ├─aihub
-│  │  └─trdg
+│  │  │  └─data.mdb
+│  │  ├─trdg
+│  │  └  └─data.mdb
 │  └─val
 │     ├─aihub
-│     └─trdg
+│     │  └─data.mdb
+│     │─trdg
+│     └  └─data.mdb
 ├─test
 │ ├─test_00001.png
 │ ├─test_00002.png
